@@ -1,0 +1,728 @@
+[
+  {
+    "main_13": {
+      "code": 0,
+      "msg": "success",
+      "prodata": [
+        {
+          "sid": 67604,
+          "name": "暗夜情报员 第三季",
+          "logo": "https://vp.veridiannova.net/1771918218523.jpg",
+          "biglogo": "",
+          "pf": "5.0",
+          "quality": 2,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "true"
+        },
+        {
+          "sid": 67598,
+          "name": "爱情恐惧症",
+          "logo": "https://vp.veridiannova.net/1771918234296.jpg",
+          "biglogo": "",
+          "pf": "5.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 67484,
+          "name": "莎拉的真伪人生",
+          "logo": "https://vp.veridiannova.net/1771918299814.jpg",
+          "biglogo": "",
+          "pf": "5.0",
+          "quality": 2,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "true"
+        },
+        {
+          "sid": 67454,
+          "name": "我的妈妈是校花",
+          "logo": "https://vp.veridiannova.net/1771918508735.jpg",
+          "biglogo": "",
+          "pf": "7.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 67458,
+          "name": "百万人推理",
+          "logo": "https://vp.veridiannova.net/1771918531699.jpg",
+          "biglogo": "",
+          "pf": "5.0",
+          "quality": 2,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "true"
+        },
+        {
+          "sid": 67402,
+          "name": "黑金游戏",
+          "logo": "https://vp.veridiannova.net/1771918556803.jpg",
+          "biglogo": "",
+          "pf": "6.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 67410,
+          "name": "铅毒之子",
+          "logo": "https://vp.veridiannova.net/1771918576123.jpg",
+          "biglogo": "",
+          "pf": "5.0",
+          "quality": 2,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "true"
+        },
+        {
+          "sid": 67385,
+          "name": "我有孩子了",
+          "logo": "https://vp.veridiannova.net/1771918604346.jpg",
+          "biglogo": "",
+          "pf": "5.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        }
+      ]
+    }
+  },
+  {
+    "main_14": {
+      "code": 0,
+      "msg": "success",
+      "prodata": [
+        {
+          "sid": 67438,
+          "name": "你行！你上！",
+          "logo": "https://vp.veridiannova.net/1771228939662.jpg",
+          "biglogo": "",
+          "pf": "6.7",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 67312,
+          "name": "至尊马蒂",
+          "logo": "https://vp.veridiannova.net/1771228954218.jpg",
+          "biglogo": "",
+          "pf": "7.3",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 67440,
+          "name": "陌生人",
+          "logo": "https://vp.veridiannova.net/1771228974602.jpg",
+          "biglogo": "",
+          "pf": "5.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 67398,
+          "name": "阿姆鲁姆",
+          "logo": "https://vp.veridiannova.net/1771228991131.jpg",
+          "biglogo": "",
+          "pf": "5.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 67313,
+          "name": "隐者山河",
+          "logo": "https://vp.veridiannova.net/1771229025891.jpg",
+          "biglogo": "",
+          "pf": "8.3",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 67371,
+          "name": "水之年代",
+          "logo": "https://vp.veridiannova.net/1771229039714.jpg",
+          "biglogo": "",
+          "pf": "6.3",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 67396,
+          "name": "小倩",
+          "logo": "https://vp.veridiannova.net/1771229057356.jpg",
+          "biglogo": "",
+          "pf": "6.9",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 67366,
+          "name": "柔似蜜",
+          "logo": "https://vp.veridiannova.net/1771229075539.jpg",
+          "biglogo": "",
+          "pf": "6.9",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        }
+      ]
+    }
+  },
+  {
+    "main_15": {
+      "code": 0,
+      "msg": "success",
+      "prodata": [
+        {
+          "sid": 67538,
+          "name": "2026年中央广播电视总台春节联欢晚会",
+          "logo": "https://vp.veridiannova.net/1771293815676.jpg",
+          "biglogo": "",
+          "pf": "7.5",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 67527,
+          "name": "2026蓉港新春晚会",
+          "logo": "https://vp.veridiannova.net/1771292221054.jpg",
+          "biglogo": "",
+          "pf": "6.6",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 66782,
+          "name": "给我钱12: 夜叉的世界",
+          "logo": "https://vp.veridiannova.net/1770626013551.jpg",
+          "biglogo": "",
+          "pf": "6.8",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 66812,
+          "name": "爱心改造家",
+          "logo": "https://vp.veridiannova.net/1770626043684.jpg",
+          "biglogo": "",
+          "pf": "6.3",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 67526,
+          "name": "2026川渝春节联欢晚会",
+          "logo": "https://vp.veridiannova.net/1771292201459.jpg",
+          "biglogo": "",
+          "pf": "6.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 67536,
+          "name": "山东春节联欢晚会2026",
+          "logo": "https://vp.veridiannova.net/1771292258523.jpg",
+          "biglogo": "",
+          "pf": "5.3",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 67516,
+          "name": "深圳卫视春节联欢晚会2026",
+          "logo": "https://vp.veridiannova.net/1771292298533.jpg",
+          "biglogo": "",
+          "pf": "7.3",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 67525,
+          "name": "2026新疆国际春节联欢晚会",
+          "logo": "https://vp.veridiannova.net/1771292318148.jpg",
+          "biglogo": "",
+          "pf": "5.3",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        }
+      ]
+    }
+  },
+  {
+    "main_16": {
+      "code": 0,
+      "msg": "success",
+      "prodata": [
+        {
+          "sid": 61984,
+          "name": "海底小纵队：海啸大危机",
+          "logo": "https://vp.veridiannova.net/1754635484424.jpg",
+          "biglogo": "",
+          "pf": "6.5",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 59682,
+          "name": "寻家 第二季",
+          "logo": "https://vp.veridiannova.net/1754635558652.jpg",
+          "biglogo": "",
+          "pf": "7.4",
+          "quality": 2,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "true"
+        },
+        {
+          "sid": 58054,
+          "name": "海绵宝宝：拯救比奇堡",
+          "logo": "https://vp.veridiannova.net/1754635679450.jpg",
+          "biglogo": "",
+          "pf": "6.1",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 52647,
+          "name": "喜羊羊与灰太狼之守护",
+          "logo": "https://vp.veridiannova.net/1754635744520.jpg",
+          "biglogo": "",
+          "pf": "5.9",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 49915,
+          "name": "如果历史是一群喵 第十一季",
+          "logo": "https://vp.veridiannova.net/1754635824000.jpg",
+          "biglogo": "",
+          "pf": "0.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 49168,
+          "name": "神偷奶爸4",
+          "logo": "https://vp.veridiannova.net/1754636018817.jpg",
+          "biglogo": "",
+          "pf": "6.3",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 47916,
+          "name": "熊出没·逆转时空",
+          "logo": "https://vp.veridiannova.net/1754635941798.jpg",
+          "biglogo": "",
+          "pf": "6.9",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 47781,
+          "name": "功夫熊猫4",
+          "logo": "https://vp.veridiannova.net/1754636004195.jpg",
+          "biglogo": "",
+          "pf": "6.5",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        }
+      ]
+    }
+  },
+  {
+    "main_25": {
+      "code": 0,
+      "msg": "success",
+      "prodata": [
+        {
+          "sid": 66477,
+          "name": "葬送的芙莉莲 第二季",
+          "logo": "https://vp.veridiannova.net/1768895751166.jpg",
+          "biglogo": "",
+          "pf": "6.4",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 66308,
+          "name": "咒术回战 第三季",
+          "logo": "https://vp.veridiannova.net/1768895795063.jpg",
+          "biglogo": "",
+          "pf": "6.7",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 66012,
+          "name": "异国日记动漫",
+          "logo": "https://vp.veridiannova.net/1768895933399.jpg",
+          "biglogo": "",
+          "pf": "0.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 65973,
+          "name": "一人之下第六季",
+          "logo": "https://vp.veridiannova.net/1768895961163.jpg",
+          "biglogo": "",
+          "pf": "0.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 66389,
+          "name": "【我推的孩子】 第三季",
+          "logo": "https://vp.veridiannova.net/1768895983146.jpg",
+          "biglogo": "",
+          "pf": "0.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 65929,
+          "name": "现在多闻君是哪一面！？",
+          "logo": "https://vp.veridiannova.net/1768896009261.jpg",
+          "biglogo": "",
+          "pf": "6.3",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 65963,
+          "name": "极速车魂 第三季",
+          "logo": "https://vp.veridiannova.net/1768896122390.jpg",
+          "biglogo": "",
+          "pf": "6.5",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 66176,
+          "name": "大主宰 年番2",
+          "logo": "https://vp.veridiannova.net/1768896204566.jpg",
+          "biglogo": "",
+          "pf": "6.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        }
+      ]
+    }
+  },
+  {
+    "main_39": {
+      "code": 0,
+      "msg": "success",
+      "prodata": [
+        {
+          "sid": 67995,
+          "name": "我才五岁，怎么被人贩子集体拉黑了",
+          "logo": "https://vp.veridiannova.net/1773121528885.jpg",
+          "biglogo": "",
+          "pf": "0.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 60712,
+          "name": "重生后我被病娇美女追",
+          "logo": "https://vp.veridiannova.net/1773121882853.jpg",
+          "biglogo": "",
+          "pf": "5.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 60704,
+          "name": "卷帘人依旧",
+          "logo": "https://vp.veridiannova.net/1773122032642.jpg",
+          "biglogo": "",
+          "pf": "5.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 68014,
+          "name": "老乞丐传授天书，我学呼风唤雨术",
+          "logo": "https://vp.veridiannova.net/1773122359129.jpg",
+          "biglogo": "",
+          "pf": "0.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 67983,
+          "name": "蛊烬",
+          "logo": "https://vp.veridiannova.net/1773121689841.jpg",
+          "biglogo": "",
+          "pf": "0.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 67965,
+          "name": "布衣镇九州",
+          "logo": "https://vp.veridiannova.net/1773121670428.jpg",
+          "biglogo": "",
+          "pf": "0.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 67950,
+          "name": "星落晚棠",
+          "logo": "https://vp.veridiannova.net/1773121779426.jpg",
+          "biglogo": "",
+          "pf": "0.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 67961,
+          "name": "楝树花开之我本不凡",
+          "logo": "https://vp.veridiannova.net/1773121806543.jpg",
+          "biglogo": "",
+          "pf": "0.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        }
+      ]
+    }
+  },
+  {
+    "main_8888": {
+      "code": 0,
+      "msg": "success",
+      "prodata": [
+        {
+          "title": "電影 2025",
+          "prolist": [
+            {
+              "sid": 67438,
+              "name": "你行！你上！",
+              "logo": "https://vp.veridiannova.net/1770946735746.jpg",
+              "biglogo": "",
+              "pf": "6.7",
+              "quality": 1,
+              "hasvoice": "false",
+              "isdubi": "false",
+              "hassubtitle": "false"
+            },
+            {
+              "sid": 67312,
+              "name": "至尊马蒂",
+              "logo": "https://vp.veridiannova.net/1770688726591.jpg",
+              "biglogo": "",
+              "pf": "7.3",
+              "quality": 1,
+              "hasvoice": "false",
+              "isdubi": "false",
+              "hassubtitle": "false"
+            },
+            {
+              "sid": 67440,
+              "name": "陌生人",
+              "logo": "https://vp.veridiannova.net/1770947188344.jpg",
+              "biglogo": "",
+              "pf": "5.0",
+              "quality": 1,
+              "hasvoice": "false",
+              "isdubi": "false",
+              "hassubtitle": "false"
+            },
+            {
+              "sid": 67366,
+              "name": "柔似蜜",
+              "logo": "https://vp.veridiannova.net/1770778163917.jpg",
+              "biglogo": "",
+              "pf": "6.9",
+              "quality": 1,
+              "hasvoice": "false",
+              "isdubi": "false",
+              "hassubtitle": "false"
+            },
+            {
+              "sid": 67313,
+              "name": "隐者山河",
+              "logo": "https://vp.veridiannova.net/1770687412697.jpg",
+              "biglogo": "",
+              "pf": "8.3",
+              "quality": 1,
+              "hasvoice": "false",
+              "isdubi": "false",
+              "hassubtitle": "false"
+            },
+            {
+              "sid": 67396,
+              "name": "小倩",
+              "logo": "https://vp.veridiannova.net/1770861303502.jpg",
+              "biglogo": "",
+              "pf": "6.9",
+              "quality": 1,
+              "hasvoice": "false",
+              "isdubi": "false",
+              "hassubtitle": "false"
+            }
+          ]
+        },
+        {
+          "title": "電視劇 2025",
+          "prolist": [
+            {
+              "sid": 67672,
+              "name": "卧底娇娃",
+              "logo": "https://vp.veridiannova.net/1771894205033.jpg",
+              "biglogo": "",
+              "pf": "5.0",
+              "quality": 1,
+              "hasvoice": "false",
+              "isdubi": "false",
+              "hassubtitle": "false"
+            },
+            {
+              "sid": 67667,
+              "name": "好好的时光",
+              "logo": "https://vp.veridiannova.net/1771858274160.jpg",
+              "biglogo": "",
+              "pf": "0.0",
+              "quality": 1,
+              "hasvoice": "false",
+              "isdubi": "false",
+              "hassubtitle": "false"
+            },
+            {
+              "sid": 67660,
+              "name": "江湖夜雨十年灯2026",
+              "logo": "https://vp.veridiannova.net/1771762571629.jpg",
+              "biglogo": "",
+              "pf": "0.0",
+              "quality": 1,
+              "hasvoice": "false",
+              "isdubi": "false",
+              "hassubtitle": "false"
+            },
+            {
+              "sid": 67650,
+              "name": "厨刀与小青椒-一日的料理帖- 第二季",
+              "logo": "https://vp.veridiannova.net/1771678881623.jpg",
+              "biglogo": "",
+              "pf": "5.0",
+              "quality": 1,
+              "hasvoice": "false",
+              "isdubi": "false",
+              "hassubtitle": "false"
+            },
+            {
+              "sid": 67627,
+              "name": "在你的灿烂季节",
+              "logo": "https://vp.veridiannova.net/1771631132548.jpg",
+              "biglogo": "",
+              "pf": "5.0",
+              "quality": 1,
+              "hasvoice": "false",
+              "isdubi": "false",
+              "hassubtitle": "false"
+            },
+            {
+              "sid": 67620,
+              "name": "动物园",
+              "logo": "https://vp.veridiannova.net/1771596903625.jpg",
+              "biglogo": "",
+              "pf": "6.3",
+              "quality": 1,
+              "hasvoice": "false",
+              "isdubi": "false",
+              "hassubtitle": "false"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,728 @@
+[
+  {
+    "main_13": {
+      "code": 0,
+      "msg": "success",
+      "prodata": [
+        {
+          "sid": 74010,
+          "name": "杀手妈咪",
+          "logo": "https://forum.xentaroy.com/1786003922181.jpg",
+          "biglogo": "",
+          "pf": "7.6",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 73971,
+          "name": "来！金来号！",
+          "logo": "https://forum.xentaroy.com/1786003993545.jpg",
+          "biglogo": "",
+          "pf": "7.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 73921,
+          "name": "九门",
+          "logo": "https://forum.xentaroy.com/1786004333995.jpg",
+          "biglogo": "",
+          "pf": "8.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 73894,
+          "name": "怒火之拳",
+          "logo": "https://forum.xentaroy.com/1786004347556.jpg",
+          "biglogo": "",
+          "pf": "5.0",
+          "quality": 2,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "true"
+        },
+        {
+          "sid": 73846,
+          "name": "御廷谣",
+          "logo": "https://forum.xentaroy.com/1786004368268.jpg",
+          "biglogo": "",
+          "pf": "7.6",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 73844,
+          "name": "聪明镇",
+          "logo": "https://forum.xentaroy.com/1786004391839.jpg",
+          "biglogo": "",
+          "pf": "7.2",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 74167,
+          "name": "图书馆员：下一章 第二季",
+          "logo": "https://forum.xentaroy.com/1786004490633.jpg",
+          "biglogo": "",
+          "pf": "6.6",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 74140,
+          "name": "断林镇谜案 第十二季",
+          "logo": "https://forum.xentaroy.com/1786004529685.jpg",
+          "biglogo": "",
+          "pf": "7.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        }
+      ]
+    }
+  },
+  {
+    "main_14": {
+      "code": 0,
+      "msg": "success",
+      "prodata": [
+        {
+          "sid": 74016,
+          "name": "消失的人",
+          "logo": "https://forum.xentaroy.com/1785827700082.jpg",
+          "biglogo": "",
+          "pf": "7.2",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 74121,
+          "name": "灵魂伴侣",
+          "logo": "https://forum.xentaroy.com/1785827827995.jpg",
+          "biglogo": "",
+          "pf": "5.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 73851,
+          "name": "利未记",
+          "logo": "https://forum.xentaroy.com/1785827847246.jpg",
+          "biglogo": "",
+          "pf": "7.3",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 72236,
+          "name": "星球大战：曼达洛人与古古",
+          "logo": "https://forum.xentaroy.com/1782819870551.jpg",
+          "biglogo": "",
+          "pf": "7.4",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 73789,
+          "name": "今晚正好",
+          "logo": "https://forum.xentaroy.com/1785226586284.jpg",
+          "biglogo": "",
+          "pf": "6.1",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 73685,
+          "name": "群体",
+          "logo": "https://forum.xentaroy.com/1785226839420.jpg",
+          "biglogo": "",
+          "pf": "6.4",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 73641,
+          "name": "揭秘日",
+          "logo": "https://forum.xentaroy.com/1785226858888.jpg",
+          "biglogo": "",
+          "pf": "6.5",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 73838,
+          "name": "超级少女",
+          "logo": "https://forum.xentaroy.com/1785227055187.jpg",
+          "biglogo": "",
+          "pf": "5.4",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        }
+      ]
+    }
+  },
+  {
+    "main_15": {
+      "code": 0,
+      "msg": "success",
+      "prodata": [
+        {
+          "sid": 74013,
+          "name": "心动的信号 第九季",
+          "logo": "https://forum.xentaroy.com/1786004575963.jpg",
+          "biglogo": "",
+          "pf": "6.6",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 74012,
+          "name": "宇宙年糕店",
+          "logo": "https://forum.xentaroy.com/1786004598254.jpg",
+          "biglogo": "",
+          "pf": "5.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 73926,
+          "name": "谋杀俱乐部",
+          "logo": "https://forum.xentaroy.com/1786004660990.jpg",
+          "biglogo": "",
+          "pf": "7.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 73896,
+          "name": "爱达荷州血案：大学梦魇",
+          "logo": "https://forum.xentaroy.com/1786004678125.jpg",
+          "biglogo": "",
+          "pf": "5.0",
+          "quality": 2,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "true"
+        },
+        {
+          "sid": 73881,
+          "name": "重症解密",
+          "logo": "https://forum.xentaroy.com/1786004699801.jpg",
+          "biglogo": "",
+          "pf": "6.3",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 73845,
+          "name": "王子与乞丐",
+          "logo": "https://forum.xentaroy.com/1786004749944.jpg",
+          "biglogo": "",
+          "pf": "6.9",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 73694,
+          "name": "寻迹庞贝古城：与汤姆·希德勒斯顿同行",
+          "logo": "https://forum.xentaroy.com/1786004775092.jpg",
+          "biglogo": "",
+          "pf": "5.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 74134,
+          "name": "我剩下的恋爱",
+          "logo": "https://forum.xentaroy.com/1786004852537.jpg",
+          "biglogo": "",
+          "pf": "7.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        }
+      ]
+    }
+  },
+  {
+    "main_16": {
+      "code": 0,
+      "msg": "success",
+      "prodata": [
+        {
+          "sid": 61984,
+          "name": "海底小纵队：海啸大危机",
+          "logo": "https://forum.xentaroy.com/1754635484424.jpg",
+          "biglogo": "",
+          "pf": "6.5",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 59682,
+          "name": "寻家 第二季",
+          "logo": "https://forum.xentaroy.com/1754635558652.jpg",
+          "biglogo": "",
+          "pf": "7.4",
+          "quality": 2,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "true"
+        },
+        {
+          "sid": 58054,
+          "name": "海绵宝宝：拯救比奇堡",
+          "logo": "https://forum.xentaroy.com/1754635679450.jpg",
+          "biglogo": "",
+          "pf": "6.1",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 52647,
+          "name": "喜羊羊与灰太狼之守护",
+          "logo": "https://forum.xentaroy.com/1754635744520.jpg",
+          "biglogo": "",
+          "pf": "5.9",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 49915,
+          "name": "如果历史是一群喵 第十一季",
+          "logo": "https://forum.xentaroy.com/1754635824000.jpg",
+          "biglogo": "",
+          "pf": "0.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 49168,
+          "name": "神偷奶爸4",
+          "logo": "https://forum.xentaroy.com/1754636018817.jpg",
+          "biglogo": "",
+          "pf": "6.3",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 47916,
+          "name": "熊出没·逆转时空",
+          "logo": "https://forum.xentaroy.com/1754635941798.jpg",
+          "biglogo": "",
+          "pf": "6.9",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 47781,
+          "name": "功夫熊猫4",
+          "logo": "https://forum.xentaroy.com/1754636004195.jpg",
+          "biglogo": "",
+          "pf": "6.5",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        }
+      ]
+    }
+  },
+  {
+    "main_25": {
+      "code": 0,
+      "msg": "success",
+      "prodata": [
+        {
+          "sid": 72946,
+          "name": "二十世纪电气目录",
+          "logo": "https://forum.xentaroy.com/1783578149658.jpg",
+          "biglogo": "",
+          "pf": "5.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 72991,
+          "name": "最强出涸皇子的暗跃帝位争夺",
+          "logo": "https://forum.xentaroy.com/1783579532739.jpg",
+          "biglogo": "",
+          "pf": "5.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 73085,
+          "name": "不虐待我的继母与继姐",
+          "logo": "https://forum.xentaroy.com/1783579576481.jpg",
+          "biglogo": "",
+          "pf": "5.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 72989,
+          "name": "被遗弃圣女的异世界美食之旅 用隐藏技能召唤了露营车",
+          "logo": "https://forum.xentaroy.com/1783579664459.jpg",
+          "biglogo": "",
+          "pf": "5.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 72907,
+          "name": "无职转生Ⅲ 到了异世界就拿出真本事",
+          "logo": "https://forum.xentaroy.com/1783579123947.jpg",
+          "biglogo": "",
+          "pf": "5.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 72043,
+          "name": "我独自盗墓",
+          "logo": "https://forum.xentaroy.com/1783579230165.jpg",
+          "biglogo": "",
+          "pf": "5.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 72550,
+          "name": "猫与龙",
+          "logo": "https://forum.xentaroy.com/1783579420782.jpg",
+          "biglogo": "",
+          "pf": "5.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 72332,
+          "name": "斩神之凡尘神域Ⅱ",
+          "logo": "https://forum.xentaroy.com/1783579359188.jpg",
+          "biglogo": "",
+          "pf": "5.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        }
+      ]
+    }
+  },
+  {
+    "main_39": {
+      "code": 0,
+      "msg": "success",
+      "prodata": [
+        {
+          "sid": 74083,
+          "name": "宴遇簪花缘",
+          "logo": "https://forum.xentaroy.com/1786005199050.jpg",
+          "biglogo": "",
+          "pf": "6.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 74084,
+          "name": "南戏",
+          "logo": "https://forum.xentaroy.com/1786005654116.jpg",
+          "biglogo": "",
+          "pf": "6.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 73978,
+          "name": "执笔为劫",
+          "logo": "https://forum.xentaroy.com/1786005677663.jpg",
+          "biglogo": "",
+          "pf": "0.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 73972,
+          "name": "幽宅奇谭",
+          "logo": "https://forum.xentaroy.com/1786005693952.jpg",
+          "biglogo": "",
+          "pf": "6.3",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 73806,
+          "name": "忘川花未央",
+          "logo": "https://forum.xentaroy.com/1786005799514.jpg",
+          "biglogo": "",
+          "pf": "5.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 73805,
+          "name": "我当卧底这件事",
+          "logo": "https://forum.xentaroy.com/1786005847862.jpg",
+          "biglogo": "",
+          "pf": "6.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 74210,
+          "name": "顾小姐她不装了",
+          "logo": "https://forum.xentaroy.com/1786005931004.jpg",
+          "biglogo": "",
+          "pf": "0.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 74202,
+          "name": "含辛十八载，我的婆家全是假的",
+          "logo": "https://forum.xentaroy.com/1786005967183.jpg",
+          "biglogo": "",
+          "pf": "0.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        }
+      ]
+    }
+  },
+  {
+    "main_8888": {
+      "code": 0,
+      "msg": "success",
+      "prodata": [
+        {
+          "title": "電影 2026",
+          "prolist": [
+            {
+              "sid": 73690,
+              "name": "寒战1994",
+              "logo": "https://forum.xentaroy.com/1784878677124.jpg",
+              "biglogo": "",
+              "pf": "7.1",
+              "quality": 1,
+              "hasvoice": "false",
+              "isdubi": "false",
+              "hassubtitle": "false"
+            },
+            {
+              "sid": 73324,
+              "name": "后室",
+              "logo": "https://forum.xentaroy.com/1784079572418.jpg",
+              "biglogo": "",
+              "pf": "6.8",
+              "quality": 1,
+              "hasvoice": "false",
+              "isdubi": "false",
+              "hassubtitle": "false"
+            },
+            {
+              "sid": 73685,
+              "name": "群体",
+              "logo": "https://forum.xentaroy.com/1784856932471.jpg",
+              "biglogo": "",
+              "pf": "6.4",
+              "quality": 1,
+              "hasvoice": "false",
+              "isdubi": "false",
+              "hassubtitle": "false"
+            },
+            {
+              "sid": 73838,
+              "name": "超级少女",
+              "logo": "https://forum.xentaroy.com/1785203500555.jpg",
+              "biglogo": "",
+              "pf": "5.4",
+              "quality": 1,
+              "hasvoice": "false",
+              "isdubi": "false",
+              "hassubtitle": "false"
+            },
+            {
+              "sid": 73641,
+              "name": "揭秘日",
+              "logo": "https://forum.xentaroy.com/1784769759998.jpg",
+              "biglogo": "",
+              "pf": "6.5",
+              "quality": 1,
+              "hasvoice": "false",
+              "isdubi": "false",
+              "hassubtitle": "false"
+            },
+            {
+              "sid": 73789,
+              "name": "今晚正好",
+              "logo": "https://forum.xentaroy.com/1785116710694.jpg",
+              "biglogo": "",
+              "pf": "6.1",
+              "quality": 1,
+              "hasvoice": "false",
+              "isdubi": "false",
+              "hassubtitle": "false"
+            }
+          ]
+        },
+        {
+          "title": "電視劇 2026",
+          "prolist": [
+            {
+              "sid": 74166,
+              "name": "足球教练 第四季",
+              "logo": "https://forum.xentaroy.com/1785913851342.jpg",
+              "biglogo": "",
+              "pf": "7.6",
+              "quality": 1,
+              "hasvoice": "false",
+              "isdubi": "false",
+              "hassubtitle": "false"
+            },
+            {
+              "sid": 74164,
+              "name": "人鱼",
+              "logo": "https://forum.xentaroy.com/1785890523367.jpg",
+              "biglogo": "",
+              "pf": "7.0",
+              "quality": 1,
+              "hasvoice": "false",
+              "isdubi": "false",
+              "hassubtitle": "false"
+            },
+            {
+              "sid": 74115,
+              "name": "我的偶像总裁",
+              "logo": "https://forum.xentaroy.com/1785805677236.jpg",
+              "biglogo": "",
+              "pf": "7.0",
+              "quality": 1,
+              "hasvoice": "false",
+              "isdubi": "false",
+              "hassubtitle": "false"
+            },
+            {
+              "sid": 74087,
+              "name": "母狮 第三季",
+              "logo": "https://forum.xentaroy.com/1785719126698.jpg",
+              "biglogo": "",
+              "pf": "7.5",
+              "quality": 1,
+              "hasvoice": "false",
+              "isdubi": "false",
+              "hassubtitle": "false"
+            },
+            {
+              "sid": 74072,
+              "name": "日落下的彩虹",
+              "logo": "https://forum.xentaroy.com/1785722404922.jpg",
+              "biglogo": "",
+              "pf": "7.0",
+              "quality": 1,
+              "hasvoice": "false",
+              "isdubi": "false",
+              "hassubtitle": "false"
+            },
+            {
+              "sid": 74070,
+              "name": "夜语记",
+              "logo": "https://forum.xentaroy.com/1785719070377.jpg",
+              "biglogo": "",
+              "pf": "7.2",
+              "quality": 1,
+              "hasvoice": "false",
+              "isdubi": "false",
+              "hassubtitle": "false"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

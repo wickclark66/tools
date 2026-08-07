@@ -1,0 +1,236 @@
+{
+    "code": 200,
+    "total_count": 12,
+    "data": [
+        {
+            "id": 9966,
+            "title": "",
+            "showTitle": "false",
+            "contentCode": 115,
+            "widgets": [
+                {
+                    "sid": 45259,
+                    "name": "阿凡達：水之道",
+                    "logo": "https://forum.xentaroy.com/1761998168774.jpg",
+                    "biglogo": "",
+                    "pf": "7.8",
+                    "quality": 3,
+                    "hasvoice": "false",
+                    "isdubi": "false",
+                    "hassubtitle": "true"
+                },
+                {
+                    "sid": 44757,
+                    "name": "黑豹2",
+                    "logo": "https://forum.xentaroy.com/1761998305803.jpg",
+                    "biglogo": "",
+                    "pf": "7.1",
+                    "quality": 3,
+                    "hasvoice": "true",
+                    "isdubi": "false",
+                    "hassubtitle": "true"
+                }
+            ]
+        },
+        {
+            "id": 9966,
+            "title": "",
+            "showTitle": "false",
+            "contentCode": 116,
+            "widgets": [
+                {
+                    "sid": 43582,
+                    "name": "雷神4：愛與雷霆",
+                    "logo": "https://forum.xentaroy.com/1761998518678.jpg",
+                    "biglogo": "",
+                    "pf": "6.6",
+                    "quality": 3,
+                    "hasvoice": "false",
+                    "isdubi": "false",
+                    "hassubtitle": "true"
+                },
+                {
+                    "sid": 43956,
+                    "name": "子彈列車",
+                    "logo": "https://forum.xentaroy.com/1761998625340.jpg",
+                    "biglogo": "",
+                    "pf": "7.4",
+                    "quality": 3,
+                    "hasvoice": "true",
+                    "isdubi": "false",
+                    "hassubtitle": "true"
+                },
+                {
+                    "sid": 44273,
+                    "name": "黑亞當",
+                    "logo": "https://forum.xentaroy.com/1761998743937.jpg",
+                    "biglogo": "",
+                    "pf": "6.8",
+                    "quality": 3,
+                    "hasvoice": "false",
+                    "isdubi": "false",
+                    "hassubtitle": "true"
+                },
+                {
+                    "sid": 43442,
+                    "name": "壯志凌雲2：獨行俠",
+                    "logo": "https://forum.xentaroy.com/1761998869512.jpg",
+                    "biglogo": "",
+                    "pf": "8.5",
+                    "quality": 3,
+                    "hasvoice": "false",
+                    "isdubi": "false",
+                    "hassubtitle": "true"
+                }
+            ]
+        },
+        {
+            "id": 9966,
+            "title": "熱門推薦",
+            "showTitle": "true",
+            "contentCode": 118,
+            "widgets": [
+                {
+                    "sid": 46748,
+                    "name": "碟中諜7：致命清算（上）",
+                    "logo": "https://forum.xentaroy.com/1699715441855.jpg",
+                    "biglogo": "",
+                    "pf": "7.8",
+                    "quality": 3,
+                    "hasvoice": "false",
+                    "isdubi": "false",
+                    "hassubtitle": "true"
+                },
+                {
+                    "sid": 43687,
+                    "name": "光暈4：航向黎明號",
+                    "logo": "https://forum.xentaroy.com/1663597081481.jpg",
+                    "biglogo": "",
+                    "pf": "6.7",
+                    "quality": 3,
+                    "hasvoice": "true",
+                    "isdubi": "false",
+                    "hassubtitle": "true"
+                },
+                {
+                    "sid": 43127,
+                    "name": "奇異博士2：瘋狂多元宇宙",
+                    "logo": "https://forum.xentaroy.com/1658653439274.jpg",
+                    "biglogo": "",
+                    "pf": "7.0",
+                    "quality": 3,
+                    "hasvoice": "false",
+                    "isdubi": "false",
+                    "hassubtitle": "true"
+                },
+                {
+                    "sid": 43365,
+                    "name": "星球大戰外傳：俠盜一號",
+                    "logo": "https://forum.xentaroy.com/1660378011104.jpg",
+                    "biglogo": "",
+                    "pf": "7.6",
+                    "quality": 3,
+                    "hasvoice": "false",
+                    "isdubi": "false",
+                    "hassubtitle": "true"
+                },
+                {
+                    "sid": 42931,
+                    "name": "明日邊緣",
+                    "logo": "https://forum.xentaroy.com/1656463481538.jpg",
+                    "biglogo": "",
+                    "pf": "7.9",
+                    "quality": 3,
+                    "hasvoice": "true",
+                    "isdubi": "false",
+                    "hassubtitle": "true"
+                },
+                {
+                    "sid": 41364,
+                    "name": "反貪風暴5：最終章",
+                    "logo": "https://forum.xentaroy.com/1646661848192.jpg",
+                    "biglogo": "",
+                    "pf": "4.7",
+                    "quality": 3,
+                    "hasvoice": "false",
+                    "isdubi": "false",
+                    "hassubtitle": "false"
+                }
+            ]
+        },
+        {
+            "id": 9966,
+            "title": "",
+            "showTitle": "false",
+            "contentCode": 118,
+            "widgets": [
+                {
+                    "sid": 41267,
+                    "name": "王牌特工2：黃金圈",
+                    "logo": "https://forum.xentaroy.com/1644744459388.jpg",
+                    "biglogo": "",
+                    "pf": "6.7",
+                    "quality": 3,
+                    "hasvoice": "false",
+                    "isdubi": "false",
+                    "hassubtitle": "true"
+                },
+                {
+                    "sid": 41020,
+                    "name": "誤殺2",
+                    "logo": "https://forum.xentaroy.com/1643811382442.jpg",
+                    "biglogo": "",
+                    "pf": "5.9",
+                    "quality": 3,
+                    "hasvoice": "false",
+                    "isdubi": "false",
+                    "hassubtitle": "false"
+                },
+                {
+                    "sid": 40718,
+                    "name": "長津湖",
+                    "logo": "https://forum.xentaroy.com/1641802172052.jpg",
+                    "biglogo": "",
+                    "pf": "7.4",
+                    "quality": 3,
+                    "hasvoice": "false",
+                    "isdubi": "false",
+                    "hassubtitle": "false"
+                },
+                {
+                    "sid": 41226,
+                    "name": "永恆族",
+                    "logo": "https://forum.xentaroy.com/1644743637135.jpg",
+                    "biglogo": "",
+                    "pf": "6.4",
+                    "quality": 3,
+                    "hasvoice": "true",
+                    "isdubi": "false",
+                    "hassubtitle": "true"
+                },
+                {
+                    "sid": 40913,
+                    "name": "加勒比海盜3：世界的盡頭",
+                    "logo": "https://forum.xentaroy.com/1643103048503.jpg",
+                    "biglogo": "",
+                    "pf": "7.1",
+                    "quality": 3,
+                    "hasvoice": "true",
+                    "isdubi": "false",
+                    "hassubtitle": "true"
+                },
+                {
+                    "sid": 40752,
+                    "name": "黑客帝國：矩陣重啟",
+                    "logo": "https://forum.xentaroy.com/1641802271117.jpg",
+                    "biglogo": "",
+                    "pf": "5.7",
+                    "quality": 3,
+                    "hasvoice": "false",
+                    "isdubi": "false",
+                    "hassubtitle": "true"
+                }
+            ]
+        }
+    ]
+}
