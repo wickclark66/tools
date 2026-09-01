@@ -5,9 +5,20 @@
       "msg": "success",
       "prodata": [
         {
-          "sid": 74435,
-          "name": "侠探杰克 第四季",
-          "logo": "https://forum.xentaroy.com/1787192542056.jpg",
+          "sid": 74905,
+          "name": "鼠惑",
+          "logo": "https://forum.xentaroy.com/1788253044926.jpg",
+          "biglogo": "",
+          "pf": "5.0",
+          "quality": 2,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "true"
+        },
+        {
+          "sid": 74881,
+          "name": "新兵 第四季",
+          "logo": "https://forum.xentaroy.com/1788253080962.jpg",
           "biglogo": "",
           "pf": "7.0",
           "quality": 1,
@@ -16,9 +27,9 @@
           "hassubtitle": "false"
         },
         {
-          "sid": 74436,
-          "name": "女警出更 第2季",
-          "logo": "https://forum.xentaroy.com/1787192576353.jpg",
+          "sid": 74923,
+          "name": "飞到我心上",
+          "logo": "https://forum.xentaroy.com/1788253096060.jpg",
           "biglogo": "",
           "pf": "7.6",
           "quality": 1,
@@ -27,20 +38,31 @@
           "hassubtitle": "false"
         },
         {
-          "sid": 74454,
-          "name": "活佛济公之降龙现世",
-          "logo": "https://forum.xentaroy.com/1787192736711.jpg",
+          "sid": 74904,
+          "name": "我那些谎言的全部真相",
+          "logo": "https://forum.xentaroy.com/1788253109779.jpg",
           "biglogo": "",
-          "pf": "6.8",
+          "pf": "5.0",
+          "quality": 2,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "true"
+        },
+        {
+          "sid": 74893,
+          "name": "人生复本 第二季",
+          "logo": "https://forum.xentaroy.com/1788253121963.jpg",
+          "biglogo": "",
+          "pf": "7.2",
           "quality": 1,
           "hasvoice": "false",
           "isdubi": "false",
           "hassubtitle": "false"
         },
         {
-          "sid": 74552,
-          "name": "我当寻龙魁首的那些年",
-          "logo": "https://forum.xentaroy.com/1787192795561.jpg",
+          "sid": 74902,
+          "name": "霹雳英雄战纪之塗附世界",
+          "logo": "https://forum.xentaroy.com/1788253135596.jpg",
           "biglogo": "",
           "pf": "5.0",
           "quality": 1,
@@ -49,31 +71,9 @@
           "hassubtitle": "false"
         },
         {
-          "sid": 74588,
-          "name": "寻找珀耳塞福涅",
-          "logo": "https://forum.xentaroy.com/1787192826836.jpg",
-          "biglogo": "",
-          "pf": "7.5",
-          "quality": 1,
-          "hasvoice": "false",
-          "isdubi": "false",
-          "hassubtitle": "false"
-        },
-        {
-          "sid": 74649,
-          "name": "师兄太稳健",
-          "logo": "https://forum.xentaroy.com/1787192885420.jpg",
-          "biglogo": "",
-          "pf": "7.5",
-          "quality": 1,
-          "hasvoice": "false",
-          "isdubi": "false",
-          "hassubtitle": "false"
-        },
-        {
-          "sid": 74682,
-          "name": "赴海",
-          "logo": "https://forum.xentaroy.com/1787193110077.jpg",
+          "sid": 74911,
+          "name": "一触即发 第四季",
+          "logo": "https://forum.xentaroy.com/1788253160460.jpg",
           "biglogo": "",
           "pf": "7.0",
           "quality": 1,
@@ -82,11 +82,11 @@
           "hassubtitle": "false"
         },
         {
-          "sid": 74650,
-          "name": "她的涅槃日",
-          "logo": "https://forum.xentaroy.com/1787193568307.jpg",
+          "sid": 74894,
+          "name": "接招吧！制作人",
+          "logo": "https://forum.xentaroy.com/1788253242057.jpg",
           "biglogo": "",
-          "pf": "7.2",
+          "pf": "7.0",
           "quality": 1,
           "hasvoice": "false",
           "isdubi": "false",
@@ -101,22 +101,22 @@
       "msg": "success",
       "prodata": [
         {
-          "sid": 74688,
-          "name": "机动战士高达 闪光的哈萨维 喀耳刻的魔女",
-          "logo": "https://forum.xentaroy.com/1787644124147.jpg",
+          "sid": 74907,
+          "name": "抓特务",
+          "logo": "https://forum.xentaroy.com/1788252400430.jpg",
           "biglogo": "",
-          "pf": "8.1",
+          "pf": "7.4",
           "quality": 1,
           "hasvoice": "false",
           "isdubi": "false",
           "hassubtitle": "false"
         },
         {
-          "sid": 74439,
-          "name": "3670",
-          "logo": "https://forum.xentaroy.com/1787039666500.jpg",
+          "sid": 74876,
+          "name": "哆啦A梦：新·大雄的海底鬼岩城",
+          "logo": "https://forum.xentaroy.com/1788252124682.jpg",
           "biglogo": "",
-          "pf": "7.7",
+          "pf": "7.2",
           "quality": 1,
           "hasvoice": "false",
           "isdubi": "false",
@@ -145,22 +145,22 @@
           "hassubtitle": "false"
         },
         {
-          "sid": 74820,
-          "name": "大伯：殤胎祭",
-          "logo": "https://forum.xentaroy.com/1787647530948.jpg",
+          "sid": 74821,
+          "name": "救赎",
+          "logo": "https://forum.xentaroy.com/1788252923429.jpg",
           "biglogo": "",
-          "pf": "5.0",
+          "pf": "6.5",
           "quality": 1,
           "hasvoice": "false",
           "isdubi": "false",
           "hassubtitle": "false"
         },
         {
-          "sid": 74761,
-          "name": "爱是愤怒",
-          "logo": "https://forum.xentaroy.com/1787647789098.jpg",
+          "sid": 74932,
+          "name": "万恶之恶",
+          "logo": "https://forum.xentaroy.com/1788253319724.jpg",
           "biglogo": "",
-          "pf": "5.3",
+          "pf": "5.0",
           "quality": 1,
           "hasvoice": "false",
           "isdubi": "false",
@@ -178,9 +178,9 @@
           "hassubtitle": "false"
         },
         {
-          "sid": 74385,
-          "name": "家中低语",
-          "logo": "https://forum.xentaroy.com/1787040176561.jpg",
+          "sid": 74934,
+          "name": "麻痹",
+          "logo": "https://forum.xentaroy.com/1788253451469.jpg",
           "biglogo": "",
           "pf": "5.0",
           "quality": 1,
@@ -485,9 +485,9 @@
       "msg": "success",
       "prodata": [
         {
-          "sid": 74814,
-          "name": "乞丐千金之我替老爹寻真爱",
-          "logo": "https://forum.xentaroy.com/1787729431137.jpg",
+          "sid": 74676,
+          "name": "别撩了！她失忆是装的",
+          "logo": "https://forum.xentaroy.com/1788252744931.jpg",
           "biglogo": "",
           "pf": "0.0",
           "quality": 1,
@@ -496,9 +496,9 @@
           "hassubtitle": "false"
         },
         {
-          "sid": 74813,
-          "name": "退婚那天，我养了五朵花",
-          "logo": "https://forum.xentaroy.com/1787729482021.jpg",
+          "sid": 74734,
+          "name": "唐人街诡案1：轮回公馆",
+          "logo": "https://forum.xentaroy.com/1788252810017.jpg",
           "biglogo": "",
           "pf": "0.0",
           "quality": 1,
@@ -507,9 +507,9 @@
           "hassubtitle": "false"
         },
         {
-          "sid": 74811,
-          "name": "山沟进城，我去当了上门女婿",
-          "logo": "https://forum.xentaroy.com/1787729505860.jpg",
+          "sid": 74728,
+          "name": "我家王妃会赶尸",
+          "logo": "https://forum.xentaroy.com/1788252834262.jpg",
           "biglogo": "",
           "pf": "0.0",
           "quality": 1,
@@ -518,9 +518,9 @@
           "hassubtitle": "false"
         },
         {
-          "sid": 74809,
-          "name": "从家庭主妇到闪耀国际",
-          "logo": "https://forum.xentaroy.com/1787729570867.jpg",
+          "sid": 74721,
+          "name": "谁让他当阴差的之拘灵三千界",
+          "logo": "https://forum.xentaroy.com/1788252869652.jpg",
           "biglogo": "",
           "pf": "0.0",
           "quality": 1,
@@ -529,9 +529,9 @@
           "hassubtitle": "false"
         },
         {
-          "sid": 74802,
-          "name": "偏宠卿卿",
-          "logo": "https://forum.xentaroy.com/1787729769678.jpg",
+          "sid": 74668,
+          "name": "我逆袭而上，成为龙皇",
+          "logo": "https://forum.xentaroy.com/1788252883702.jpg",
           "biglogo": "",
           "pf": "0.0",
           "quality": 1,
@@ -540,9 +540,9 @@
           "hassubtitle": "false"
         },
         {
-          "sid": 74801,
-          "name": "海上月是天上月",
-          "logo": "https://forum.xentaroy.com/1787729784978.jpg",
+          "sid": 74666,
+          "name": "赤霞雕流年",
+          "logo": "https://forum.xentaroy.com/1788252907866.jpg",
           "biglogo": "",
           "pf": "0.0",
           "quality": 1,
@@ -551,9 +551,9 @@
           "hassubtitle": "false"
         },
         {
-          "sid": 74784,
-          "name": "七零宝妈甜蜜蜜",
-          "logo": "https://forum.xentaroy.com/1787730064726.jpg",
+          "sid": 74665,
+          "name": "骗子小姐回来了",
+          "logo": "https://forum.xentaroy.com/1788252923600.jpg",
           "biglogo": "",
           "pf": "0.0",
           "quality": 1,
@@ -562,9 +562,9 @@
           "hassubtitle": "false"
         },
         {
-          "sid": 74779,
-          "name": "我，赊刀传人强亿点怎么了",
-          "logo": "https://forum.xentaroy.com/1787730210557.jpg",
+          "sid": 74675,
+          "name": "他来时盛夏第二季",
+          "logo": "https://forum.xentaroy.com/1788252955371.jpg",
           "biglogo": "",
           "pf": "0.0",
           "quality": 1,
@@ -584,20 +584,53 @@
           "title": "電影 2026",
           "prolist": [
             {
-              "sid": 74394,
-              "name": "激情邀约",
-              "logo": "https://forum.xentaroy.com/1786500301679.jpg",
+              "sid": 74907,
+              "name": "抓特务",
+              "logo": "https://forum.xentaroy.com/1788140363687.jpg",
               "biglogo": "",
-              "pf": "7.8",
+              "pf": "7.4",
               "quality": 1,
               "hasvoice": "false",
               "isdubi": "false",
               "hassubtitle": "false"
             },
             {
-              "sid": 74440,
-              "name": "青年华盛顿",
-              "logo": "https://forum.xentaroy.com/1786587191965.jpg",
+              "sid": 74876,
+              "name": "哆啦A梦：新·大雄的海底鬼岩城",
+              "logo": "https://forum.xentaroy.com/1787794014828.jpg",
+              "biglogo": "",
+              "pf": "7.2",
+              "quality": 1,
+              "hasvoice": "false",
+              "isdubi": "false",
+              "hassubtitle": "false"
+            },
+            {
+              "sid": 74920,
+              "name": "凤仙花",
+              "logo": "https://forum.xentaroy.com/1788140835106.jpg",
+              "biglogo": "",
+              "pf": "7.3",
+              "quality": 1,
+              "hasvoice": "false",
+              "isdubi": "false",
+              "hassubtitle": "false"
+            },
+            {
+              "sid": 74821,
+              "name": "救赎",
+              "logo": "https://forum.xentaroy.com/1787537220111.jpg",
+              "biglogo": "",
+              "pf": "6.5",
+              "quality": 1,
+              "hasvoice": "false",
+              "isdubi": "false",
+              "hassubtitle": "false"
+            },
+            {
+              "sid": 74932,
+              "name": "万恶之恶",
+              "logo": "https://forum.xentaroy.com/1788228016873.jpg",
               "biglogo": "",
               "pf": "5.0",
               "quality": 1,
@@ -606,42 +639,9 @@
               "hassubtitle": "false"
             },
             {
-              "sid": 74493,
-              "name": "营地",
-              "logo": "https://forum.xentaroy.com/1786672170980.jpg",
-              "biglogo": "",
-              "pf": "5.0",
-              "quality": 1,
-              "hasvoice": "false",
-              "isdubi": "false",
-              "hassubtitle": "false"
-            },
-            {
-              "sid": 74577,
-              "name": "深度安静",
-              "logo": "https://forum.xentaroy.com/1786925952643.jpg",
-              "biglogo": "",
-              "pf": "6.8",
-              "quality": 1,
-              "hasvoice": "false",
-              "isdubi": "false",
-              "hassubtitle": "false"
-            },
-            {
-              "sid": 74385,
-              "name": "家中低语",
-              "logo": "https://forum.xentaroy.com/1786414493909.jpg",
-              "biglogo": "",
-              "pf": "5.0",
-              "quality": 1,
-              "hasvoice": "false",
-              "isdubi": "false",
-              "hassubtitle": "false"
-            },
-            {
-              "sid": 74497,
-              "name": "灾 电影版",
-              "logo": "https://forum.xentaroy.com/1786672630776.jpg",
+              "sid": 74934,
+              "name": "麻痹",
+              "logo": "https://forum.xentaroy.com/1788228346261.jpg",
               "biglogo": "",
               "pf": "5.0",
               "quality": 1,
@@ -655,9 +655,9 @@
           "title": "電視劇 2026",
           "prolist": [
             {
-              "sid": 74830,
-              "name": "家的守护星",
-              "logo": "https://forum.xentaroy.com/1787555967224.jpg",
+              "sid": 74930,
+              "name": "后西游记 第一季",
+              "logo": "https://forum.xentaroy.com/1788226268918.jpg",
               "biglogo": "",
               "pf": "7.0",
               "quality": 1,
@@ -666,9 +666,20 @@
               "hassubtitle": "false"
             },
             {
-              "sid": 74771,
-              "name": "蝉",
-              "logo": "https://forum.xentaroy.com/1787273807288.jpg",
+              "sid": 74929,
+              "name": "囧徒之预演告别",
+              "logo": "https://forum.xentaroy.com/1788226228980.jpg",
+              "biglogo": "",
+              "pf": "7.8",
+              "quality": 1,
+              "hasvoice": "false",
+              "isdubi": "false",
+              "hassubtitle": "false"
+            },
+            {
+              "sid": 74927,
+              "name": "四手联弹，两首奏鸣曲",
+              "logo": "https://forum.xentaroy.com/1788054851061.jpg",
               "biglogo": "",
               "pf": "5.0",
               "quality": 1,
@@ -677,48 +688,37 @@
               "hassubtitle": "false"
             },
             {
-              "sid": 74713,
-              "name": "法医秦明之蚀骨时差",
-              "logo": "https://forum.xentaroy.com/1787293904203.jpg",
+              "sid": 74925,
+              "name": "颐庐风云",
+              "logo": "https://forum.xentaroy.com/1788157432288.jpg",
               "biglogo": "",
-              "pf": "7.0",
+              "pf": "6.0",
               "quality": 1,
               "hasvoice": "false",
               "isdubi": "false",
               "hassubtitle": "false"
             },
             {
-              "sid": 74794,
-              "name": "心生",
-              "logo": "https://forum.xentaroy.com/1787451844332.jpg",
+              "sid": 74924,
+              "name": "重案六组：消失的警号",
+              "logo": "https://forum.xentaroy.com/1788157506505.jpg",
               "biglogo": "",
-              "pf": "5.0",
-              "quality": 2,
-              "hasvoice": "false",
-              "isdubi": "false",
-              "hassubtitle": "true"
-            },
-            {
-              "sid": 74857,
-              "name": "金色",
-              "logo": "https://forum.xentaroy.com/1787707803215.jpg",
-              "biglogo": "",
-              "pf": "7.0",
+              "pf": "7.8",
               "quality": 1,
               "hasvoice": "false",
               "isdubi": "false",
               "hassubtitle": "false"
             },
             {
-              "sid": 74795,
-              "name": "外滩探秘 第五季",
-              "logo": "https://forum.xentaroy.com/1787451786673.jpg",
+              "sid": 74910,
+              "name": "再见1987",
+              "logo": "https://forum.xentaroy.com/1788141760172.jpg",
               "biglogo": "",
-              "pf": "5.0",
-              "quality": 2,
+              "pf": "7.6",
+              "quality": 1,
               "hasvoice": "false",
               "isdubi": "false",
-              "hassubtitle": "true"
+              "hassubtitle": "false"
             }
           ]
         }
