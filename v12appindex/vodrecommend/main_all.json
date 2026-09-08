@@ -112,11 +112,11 @@
           "hassubtitle": "false"
         },
         {
-          "sid": 74876,
-          "name": "哆啦A梦：新·大雄的海底鬼岩城",
-          "logo": "https://forum.xentaroy.com/1788252124682.jpg",
+          "sid": 75072,
+          "name": "海洋奇缘：启航",
+          "logo": "https://forum.xentaroy.com/1788850779648.jpg",
           "biglogo": "",
-          "pf": "7.2",
+          "pf": "6.7",
           "quality": 1,
           "hasvoice": "false",
           "isdubi": "false",
@@ -145,20 +145,9 @@
           "hassubtitle": "false"
         },
         {
-          "sid": 74821,
-          "name": "救赎",
-          "logo": "https://forum.xentaroy.com/1788252923429.jpg",
-          "biglogo": "",
-          "pf": "6.5",
-          "quality": 1,
-          "hasvoice": "false",
-          "isdubi": "false",
-          "hassubtitle": "false"
-        },
-        {
-          "sid": 74932,
-          "name": "万恶之恶",
-          "logo": "https://forum.xentaroy.com/1788253319724.jpg",
+          "sid": 74963,
+          "name": "小气鬼",
+          "logo": "https://forum.xentaroy.com/1788849082365.jpg",
           "biglogo": "",
           "pf": "5.0",
           "quality": 1,
@@ -167,9 +156,9 @@
           "hassubtitle": "false"
         },
         {
-          "sid": 74686,
-          "name": "怒之杀",
-          "logo": "https://forum.xentaroy.com/1787647590085.jpg",
+          "sid": 75041,
+          "name": "监狱雄心",
+          "logo": "https://forum.xentaroy.com/1788850543912.jpg",
           "biglogo": "",
           "pf": "5.0",
           "quality": 1,
@@ -178,11 +167,22 @@
           "hassubtitle": "false"
         },
         {
-          "sid": 74934,
-          "name": "麻痹",
-          "logo": "https://forum.xentaroy.com/1788253451469.jpg",
+          "sid": 74970,
+          "name": "歪心狼对阵ACME",
+          "logo": "https://forum.xentaroy.com/1788851462024.jpg",
           "biglogo": "",
           "pf": "5.0",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 75001,
+          "name": "特立独行",
+          "logo": "https://forum.xentaroy.com/1788849579816.jpg",
+          "biglogo": "",
+          "pf": "6.7",
           "quality": 1,
           "hasvoice": "false",
           "isdubi": "false",
