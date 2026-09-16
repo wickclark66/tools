@@ -655,20 +655,9 @@
           "title": "電視劇 2026",
           "prolist": [
             {
-              "sid": 74930,
-              "name": "后西游记 第一季",
-              "logo": "https://forum.xentaroy.com/1788226268918.jpg",
-              "biglogo": "",
-              "pf": "7.0",
-              "quality": 1,
-              "hasvoice": "false",
-              "isdubi": "false",
-              "hassubtitle": "false"
-            },
-            {
-              "sid": 74929,
-              "name": "囧徒之预演告别",
-              "logo": "https://forum.xentaroy.com/1788226228980.jpg",
+              "sid": 75170,
+              "name": "云雀叫天录",
+              "logo": "https://forum.xentaroy.com/1789367526964.jpg",
               "biglogo": "",
               "pf": "7.8",
               "quality": 1,
@@ -677,9 +666,31 @@
               "hassubtitle": "false"
             },
             {
-              "sid": 74927,
-              "name": "四手联弹，两首奏鸣曲",
-              "logo": "https://forum.xentaroy.com/1788054851061.jpg",
+              "sid": 75167,
+              "name": "革命者",
+              "logo": "https://forum.xentaroy.com/1789294288962.jpg",
+              "biglogo": "",
+              "pf": "5.0",
+              "quality": 2,
+              "hasvoice": "false",
+              "isdubi": "false",
+              "hassubtitle": "true"
+            },
+            {
+              "sid": 75133,
+              "name": "兰香如故",
+              "logo": "https://forum.xentaroy.com/1789177319040.jpg",
+              "biglogo": "",
+              "pf": "7.3",
+              "quality": 1,
+              "hasvoice": "false",
+              "isdubi": "false",
+              "hassubtitle": "false"
+            },
+            {
+              "sid": 75156,
+              "name": "不是你的恋爱",
+              "logo": "https://forum.xentaroy.com/1789305013554.jpg",
               "biglogo": "",
               "pf": "5.0",
               "quality": 1,
@@ -688,33 +699,22 @@
               "hassubtitle": "false"
             },
             {
-              "sid": 74925,
-              "name": "颐庐风云",
-              "logo": "https://forum.xentaroy.com/1788157432288.jpg",
+              "sid": 75129,
+              "name": "掌舵少女",
+              "logo": "https://forum.xentaroy.com/1789091106565.jpg",
               "biglogo": "",
-              "pf": "6.0",
-              "quality": 1,
+              "pf": "5.0",
+              "quality": 2,
               "hasvoice": "false",
               "isdubi": "false",
-              "hassubtitle": "false"
+              "hassubtitle": "true"
             },
             {
-              "sid": 74924,
-              "name": "重案六组：消失的警号",
-              "logo": "https://forum.xentaroy.com/1788157506505.jpg",
+              "sid": 75124,
+              "name": "河神之渡阴",
+              "logo": "https://forum.xentaroy.com/1789093250625.jpg",
               "biglogo": "",
-              "pf": "7.8",
-              "quality": 1,
-              "hasvoice": "false",
-              "isdubi": "false",
-              "hassubtitle": "false"
-            },
-            {
-              "sid": 74910,
-              "name": "再见1987",
-              "logo": "https://forum.xentaroy.com/1788141760172.jpg",
-              "biglogo": "",
-              "pf": "7.6",
+              "pf": "5.0",
               "quality": 1,
               "hasvoice": "false",
               "isdubi": "false",
