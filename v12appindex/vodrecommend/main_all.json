@@ -101,31 +101,31 @@
       "msg": "success",
       "prodata": [
         {
-          "sid": 75285,
-          "name": "戴高乐之战：淬炼时代",
-          "logo": "https://forum.xentaroy.com/1790663744349.jpg",
+          "sid": 75903,
+          "name": "空枪",
+          "logo": "https://forum.xentaroy.com/1793088031991.jpg",
           "biglogo": "",
-          "pf": "7.9",
+          "pf": "7.2",
+          "quality": 1,
+          "hasvoice": "true",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 75932,
+          "name": "茫然女王",
+          "logo": "https://forum.xentaroy.com/1793089610309.jpg",
+          "biglogo": "",
+          "pf": "8.0",
           "quality": 1,
           "hasvoice": "false",
           "isdubi": "false",
           "hassubtitle": "false"
         },
         {
-          "sid": 75321,
-          "name": "一个部门的诞生",
-          "logo": "https://forum.xentaroy.com/1790663437909.jpg",
-          "biglogo": "",
-          "pf": "7.4",
-          "quality": 1,
-          "hasvoice": "false",
-          "isdubi": "false",
-          "hassubtitle": "false"
-        },
-        {
-          "sid": 75320,
-          "name": "爱情假说",
-          "logo": "https://forum.xentaroy.com/1790664309204.jpg",
+          "sid": 75927,
+          "name": "实习生",
+          "logo": "https://forum.xentaroy.com/1793089639331.jpg",
           "biglogo": "",
           "pf": "5.0",
           "quality": 1,
@@ -134,9 +134,9 @@
           "hassubtitle": "false"
         },
         {
-          "sid": 75109,
-          "name": "坠河的女孩",
-          "logo": "https://forum.xentaroy.com/1789458678508.jpg",
+          "sid": 75892,
+          "name": "情场如战场",
+          "logo": "https://forum.xentaroy.com/1793089695396.jpg",
           "biglogo": "",
           "pf": "5.0",
           "quality": 1,
@@ -145,9 +145,20 @@
           "hassubtitle": "false"
         },
         {
-          "sid": 75356,
-          "name": "死亡赌局",
-          "logo": "https://forum.xentaroy.com/1790664202484.jpg",
+          "sid": 75958,
+          "name": "你的错误：伦敦版",
+          "logo": "https://forum.xentaroy.com/1793089425765.jpg",
+          "biglogo": "",
+          "pf": "6.2",
+          "quality": 1,
+          "hasvoice": "false",
+          "isdubi": "false",
+          "hassubtitle": "false"
+        },
+        {
+          "sid": 75926,
+          "name": "奇幻秘密之旅",
+          "logo": "https://forum.xentaroy.com/1793089255125.jpg",
           "biglogo": "",
           "pf": "5.0",
           "quality": 1,
@@ -156,9 +167,9 @@
           "hassubtitle": "false"
         },
         {
-          "sid": 75357,
-          "name": "名侦探柯南：30号杀人事件",
-          "logo": "https://forum.xentaroy.com/1790664174224.jpg",
+          "sid": 75747,
+          "name": "布兰迪万河上的死亡",
+          "logo": "https://forum.xentaroy.com/1792485144575.jpg",
           "biglogo": "",
           "pf": "5.0",
           "quality": 1,
@@ -167,22 +178,11 @@
           "hassubtitle": "false"
         },
         {
-          "sid": 75362,
-          "name": "欢迎再次登录",
-          "logo": "https://forum.xentaroy.com/1790664106793.jpg",
+          "sid": 75912,
+          "name": "营救夜莺",
+          "logo": "https://forum.xentaroy.com/1793089146553.jpg",
           "biglogo": "",
-          "pf": "5.0",
-          "quality": 1,
-          "hasvoice": "false",
-          "isdubi": "false",
-          "hassubtitle": "false"
-        },
-        {
-          "sid": 75286,
-          "name": "电动维纳斯",
-          "logo": "https://forum.xentaroy.com/1790664002501.jpg",
-          "biglogo": "",
-          "pf": "7.6",
+          "pf": "6.2",
           "quality": 1,
           "hasvoice": "false",
           "isdubi": "false",
