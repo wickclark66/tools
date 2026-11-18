@@ -584,13 +584,13 @@
           "title": "電影 2026",
           "prolist": [
             {
-              "sid": 75903,
-              "name": "空枪",
-              "logo": "https://forum.xentaroy.com/1792760409652.jpg",
+              "sid": 76161,
+              "name": "奥德赛",
+              "logo": "https://forum.xentaroy.com/1794188630133.jpg",
               "biglogo": "",
-              "pf": "7.2",
+              "pf": "8.6",
               "quality": 1,
-              "hasvoice": "true",
+              "hasvoice": "false",
               "isdubi": "false",
               "hassubtitle": "false"
             },
